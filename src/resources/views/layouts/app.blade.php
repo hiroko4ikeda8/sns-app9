@@ -30,7 +30,6 @@
             <!-- Page Content -->
             <main>
                 {{ $slot }}
-                <button class="btn btn-primary">Bootstrapボタン</button>
             </main>
         </div>
     </body>
